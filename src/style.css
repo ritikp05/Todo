@@ -64,7 +64,7 @@
     align-items: flex-start;
     border-radius: 5%;
     background-color: #fff8f8;
-    min-width: 41%;
+    min-width: 300px%;
     min-height: 560px;
     gap: 35px;
 }
@@ -220,7 +220,7 @@ input:hover {
 
 }
 
-
+/* 
 
 
 
@@ -306,3 +306,4 @@ input:hover {
     }
 
 }
+ */
